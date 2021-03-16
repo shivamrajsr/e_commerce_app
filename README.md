@@ -1,6 +1,6 @@
 # e_commerce
 
-A new Flutter application.
+E-commerce platform created for ios/android in flutter
 
 ## Getting Started
 
